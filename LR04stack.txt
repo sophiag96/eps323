@@ -1,5 +1,3 @@
-
-Time (ka)	Benthic d18O (per mil)	Standard error (per mil)
 0.0	3.23	0.03
 1.0	3.23	0.04
 2.0	3.18	0.03
