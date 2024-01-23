@@ -1,11 +1,4 @@
-Data from http://vo.imcce.fr/insola/earth/online/earth/earth.html
-Five columns for each time as follows:
-  time: thousands of years from present
-  eccentricity: (aphelion-perihelion)/(aphelion+perihelion)
-  obliquity: radians
-  perihelion: angle between equinox & perihelion, radians
-  insolation: daily mean TOA solar flux at 65N summer solstice, W/m2
-time	eccentricity	obliquity	perihelion	insolation	global.insolation
+
 -5020	0.03817847343911	0.390474357722497	6.0369792689952	480.384375149534	342.199485217355
 -5019	0.0372122384221847	0.388836539546022	0.0339866946522367	468.503482311777	342.187003920878
 -5018	0.0362794159611896	0.387677309296168	0.314431100872816	457.909880949319	342.175259003103
